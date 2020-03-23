@@ -1,1 +1,1 @@
-# JS_codewars..8kuy
+# JS_codewars
