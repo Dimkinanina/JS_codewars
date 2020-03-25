@@ -1,0 +1,1 @@
+const animal = ({name, legs, color}) => `This ${color} ${name} has ${legs} legs.`
