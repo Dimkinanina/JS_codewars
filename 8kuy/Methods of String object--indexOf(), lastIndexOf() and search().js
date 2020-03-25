@@ -1,0 +1,1 @@
+const firstToLast = (string, c) => string.lastIndexOf(c) - Math.max(0, string.indexOf(c))
