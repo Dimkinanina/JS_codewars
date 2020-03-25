@@ -1,0 +1,1 @@
+const howManySmaller = (arr, n) => arr.filter(number => Number(number.toFixed(2)) < n).length
