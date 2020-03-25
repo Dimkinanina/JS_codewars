@@ -1,9 +1,3 @@
-/*
-Task
-I've written five function, each function receives a parameter: arr(an array),
-you should coding something with arr.
- */
-
 
 function getLength(arr){
     return arr.length;
